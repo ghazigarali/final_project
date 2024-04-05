@@ -1,6 +1,6 @@
 function myFunction()
 {
-    var aleatoir =82;   
+    var aleatoir= Math.floor(Math.random() * 100) + 1;  
     var num = parseInt($('#num').val());
 
     if (num == aleatoir) {
