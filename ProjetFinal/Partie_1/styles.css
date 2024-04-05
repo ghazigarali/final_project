@@ -1,0 +1,25 @@
+#lampe{
+  background-color: black;
+  color: black;
+  height: 700px;
+  padding-top: 100px;
+  align-items: center;
+  text-align: center;
+}
+#leteint{
+  height: 350px;
+  width: 200px;
+
+}
+#ceteint{
+  height: 100px;
+  width:  100px;
+  background-color: black;
+}
+#switch{
+  height: 300px;
+}
+#btn{
+  border: black;
+  background-color: black;
+}

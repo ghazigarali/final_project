@@ -1,0 +1,33 @@
+.container {
+    display: flex;
+}
+
+.btn {
+    padding: 10px 20px;
+    margin: 10px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+#cv{
+    width: 95%;
+    height: 600px;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+#image{
+    width: 65%;
+    height: 600px;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+}
+#video{
+    width: 95%;
+    height: 600px;
+    padding: 20px;
+    border-radius: 5px;
+    position: relative;
+}
